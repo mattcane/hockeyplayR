@@ -1,2 +1,2 @@
 # hockeyplayR
-A common ID system for hockey player.
+A common ID system for hockey players.
